@@ -1,7 +1,7 @@
 <a name="section1"></a>
 ![title](https://github.com/slt666666/FAO_lecture/blob/main/title.png?raw=true)
 
-| No. | date | test |
+| No. | date | contents |
 |:---|:---|:---|
 | 01 | August 3rd | [MutMap analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/MutMap.ipynb)(Google Colab) |
 | 02 | Augstt 4th | QTL-seq analysis(Google Colab) |

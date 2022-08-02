@@ -1,9 +1,9 @@
 <a name="section1"></a>
 ![title](textbook/title.png)
 
-In this practice part, Please open 2 windows, Web browser & Webex page if possible.
+In this practice part, Please open 2 windows(Web browser & Webex) if possible.
 
-You can see trainer's sharing page & your own page.
+You can see your own page & trainer's sharing window.
 
 | No. | date | contents |
 |:---|:---|:---|

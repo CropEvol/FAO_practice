@@ -1,5 +1,8 @@
 <a name="section1"></a>
-![title](https://github.com/slt666666/FAO_lecture/blob/main/title.png?raw=true)
+![title](textbook/title.png)
+
+In this practice part, Please open 2 windows, Web browser & Webex page if possible.
+You can see trainer's sharing page & your own page.
 
 | No. | date | contents |
 |:---|:---|:---|

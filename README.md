@@ -8,8 +8,7 @@ You can see your own page & trainer's sharing window.
 |:---|:---|:---|
 | 01 | August 3rd | [MutMap analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/MutMap.ipynb)(Google Colab) |
 | 02 | Augstt 4th | [QTL-seq analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/QTL_seq.ipynb)(Google Colab) |
-| 03 | August 5th | GenomicPrediction(Google Colab) |
-<!-- | 03 | August 5th | [GenomicPrediction](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GenomicPrediction.ipynb)(Google Colab) | -->
+| 03 | August 5th | [GenomicPrediction](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GenomicPrediction.ipynb)(Google Colab) |
 
 ![title](textbook/title.png)
 

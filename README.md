@@ -6,10 +6,10 @@ In this practice part, we plan to use Google Colaboratory.
 |:---|:---|:---|
 | 01 | April 29th | [Introduction of Google Colab](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GoogleColab.ipynb)(Google Colab Notebook) |
 | 02 | May 1st | Mut-Map analysis |
-<!-- | 02 | May 1st | [Mut-Map analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/MutMap.ipynb)(Google Colab Notebook) | -->
 | 03 | May 1st | QTL-seq analysis |
-<!-- | 03 | May 1st | [QTL-seq analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/QTL-seq.ipynb)(Google Colab Notebook) | -->
 | 04 | May 3rd | Genomic Prediction |
+<!-- | 02 | May 1st | [Mut-Map analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/MutMap.ipynb)(Google Colab Notebook) | -->
+<!-- | 03 | May 1st | [QTL-seq analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/QTL-seq.ipynb)(Google Colab Notebook) | -->
 <!-- | 04 | May 3rd | [Genomic Prediction](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GenomicPrediction.ipynb)(Google Colab Notebook) | -->
 
 ![title](textbook/title.png)

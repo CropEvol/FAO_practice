@@ -1,14 +1,13 @@
-<a name="section1"></a>
+<a name="section1">Practice session in Regional training course</a>
 
-In this practice part, Please open 2 windows(Web browser & Webex) if possible.
-
-You can see your own page & trainer's sharing window.
+In this practice part, we plan to use Google Colaboratory.
 
 | No. | date | contents |
 |:---|:---|:---|
-| 01 | August 3rd | [MutMap analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/MutMap.ipynb)(Google Colab) |
-| 02 | Augstt 4th | [QTL-seq analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/QTL_seq.ipynb)(Google Colab) |
-| 03 | August 5th | [GenomicPrediction](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GenomicPrediction.ipynb)(Google Colab) |
+| 01 | April 29th | [Introduction of Google Colab](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GoogleColab.ipynb)(Google Colab) |
+| 02 | May 1st | [Mut-Map analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/MutMap.ipynb)(Google Colab) |
+| 03 | May 1st | [QTL-seq analysis](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/QTL-seq.ipynb)(Google Colab) |
+| 04 | May 3rd | [Genomic Prediction](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GenomicPrediction.ipynb)(Google Colab) |
 
 ![title](textbook/title.png)
 

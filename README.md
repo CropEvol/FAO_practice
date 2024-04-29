@@ -14,6 +14,10 @@ In this practice part, we plan to use Google Colaboratory.
 
 ## Lecture slides
 - [April 29th slides](https://github.com/CropEvol/FAO_practice/blob/main/textbook/Apr_29_FAO_IAEA_training_slides.pdf)
+- April 30th slides
+- May 1st slides
+- May 2nd slides
+- May 3rd slides
 
 
 ![title](textbook/title.png)

@@ -13,7 +13,7 @@ In this practice part, we plan to use Google Colaboratory.
 <!-- | 04 | May 3rd | [Genomic Prediction](https://colab.research.google.com/github/CropEvol/FAO_practice/blob/master/textbook/GenomicPrediction.ipynb)(Google Colab Notebook) | -->
 
 ## Lecture slides
-- [April 29th slides]()
+- [April 29th slides](https://github.com/CropEvol/FAO_practice/blob/main/textbook/Apr_29_FAO_IAEA_training_slides.pdf)
 
 
 ![title](textbook/title.png)

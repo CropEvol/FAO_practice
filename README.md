@@ -15,7 +15,7 @@ In this practice part, we plan to use Google Colaboratory.
 ## Lecture slides
 - [April 29th & 30th(1) slides](https://github.com/CropEvol/FAO_practice/blob/main/textbook/Apr_29_FAO_IAEA_training_slides.pdf)
 - [April 30th(2) slides](https://github.com/CropEvol/FAO_practice/blob/main/textbook/Apr_30_DNA_sequencing.pdf)
-- May 1st slides
+- [May 1st slides](https://github.com/CropEvol/FAO_practice/blob/main/textbook/May_1_MutMap.pdf)
 - May 3rd slides
 
 
